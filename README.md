@@ -12,7 +12,7 @@
 Assignment: 02-Challenge Coding Boot Camp 
 
 Task:
-- Refactor existing code
+- Refracted existing code
 - Make code more accessible by adding alt attributes icon and image elements
 - Consolidate and reorganize code for a cleaner look
 - Create acceptable ReadMe file
