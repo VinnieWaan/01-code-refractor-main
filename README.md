@@ -34,7 +34,7 @@ Lessons Learned:
 
 Launch live site at [https://vinniewaan.github.io/code-refractor-main/](https://vinniewaan.github.io/code-refractor-main/) 
 
-![Home Page Screenshot](/code-refractor-main/assets/images/Home-page-screenshot.png)
+![Home Page Screenshot](assets/images/Home-page-screenshot.png)
 
 ## Credits
 
